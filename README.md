@@ -1,2 +1,2 @@
 # Algorithms
-This is my solutions for my algorithms and data structures course assignments
+These are my solutions for my Algorithms and Data Structures course assignments.
